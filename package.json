@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://vvheatly.github.io/mwhitley.Sign-Up.io/",
+  "homepage": "https://vvheatly.github.io/mwhitley.sign-up.io/",
   "dependencies": {
     "gh": "^1.17.5",
     "gh-pages": "^2.1.1",
