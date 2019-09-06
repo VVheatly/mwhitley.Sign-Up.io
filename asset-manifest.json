@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/mwhitley.Sign-Up.io/static/css/main.361a1dfd.chunk.css",
-    "main.js": "/mwhitley.Sign-Up.io/static/js/main.3726b3bb.chunk.js",
-    "main.js.map": "/mwhitley.Sign-Up.io/static/js/main.3726b3bb.chunk.js.map",
-    "runtime~main.js": "/mwhitley.Sign-Up.io/static/js/runtime~main.30c2f595.js",
-    "runtime~main.js.map": "/mwhitley.Sign-Up.io/static/js/runtime~main.30c2f595.js.map",
-    "static/js/2.1535c90f.chunk.js": "/mwhitley.Sign-Up.io/static/js/2.1535c90f.chunk.js",
-    "static/js/2.1535c90f.chunk.js.map": "/mwhitley.Sign-Up.io/static/js/2.1535c90f.chunk.js.map",
-    "index.html": "/mwhitley.Sign-Up.io/index.html",
-    "precache-manifest.b592fa8f9768b3470f68db47a549e782.js": "/mwhitley.Sign-Up.io/precache-manifest.b592fa8f9768b3470f68db47a549e782.js",
-    "service-worker.js": "/mwhitley.Sign-Up.io/service-worker.js",
-    "static/css/main.361a1dfd.chunk.css.map": "/mwhitley.Sign-Up.io/static/css/main.361a1dfd.chunk.css.map"
+    "main.css": "/mwhitley.sign-up.io/static/css/main.361a1dfd.chunk.css",
+    "main.js": "/mwhitley.sign-up.io/static/js/main.20813363.chunk.js",
+    "main.js.map": "/mwhitley.sign-up.io/static/js/main.20813363.chunk.js.map",
+    "runtime~main.js": "/mwhitley.sign-up.io/static/js/runtime~main.9b0677ae.js",
+    "runtime~main.js.map": "/mwhitley.sign-up.io/static/js/runtime~main.9b0677ae.js.map",
+    "static/js/2.9af0dd69.chunk.js": "/mwhitley.sign-up.io/static/js/2.9af0dd69.chunk.js",
+    "static/js/2.9af0dd69.chunk.js.map": "/mwhitley.sign-up.io/static/js/2.9af0dd69.chunk.js.map",
+    "index.html": "/mwhitley.sign-up.io/index.html",
+    "precache-manifest.a12ab5687fa7b973999ec9b9145d5853.js": "/mwhitley.sign-up.io/precache-manifest.a12ab5687fa7b973999ec9b9145d5853.js",
+    "service-worker.js": "/mwhitley.sign-up.io/service-worker.js",
+    "static/css/main.361a1dfd.chunk.css.map": "/mwhitley.sign-up.io/static/css/main.361a1dfd.chunk.css.map"
   }
 }
