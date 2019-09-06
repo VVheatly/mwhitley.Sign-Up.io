@@ -39,7 +39,9 @@ label {
   display: flex;
   flex-direction: column;
   opacity: 0.9;
+  align-items: center;
 }
+
 
 .Submit {
   padding: 8px;
@@ -61,7 +63,28 @@ label {
 }
 
 h1 {
-  margin-top: 0px;
-  margin-bottom: 25px;
+  margin: 0px;
   align-self: center;
 }
+
+.Lg {
+  margin-bottom:0;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+.Lg .Lg1 {
+  text-decoration: none;
+  margin-left: 2px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+
+}
+
+.Welc {
+  margin-bottom: 30px;
+  margin-top: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder; 
+}
+

@@ -1,7 +1,7 @@
-import React from "react"
+import React, {Component} from "react"
+import { Link } from 'react-router-dom';
 
-
-class Form extends React.Component {
+class Form extends Component {
     state = {
         firstName: "",
         lastName: "",
@@ -19,16 +19,6 @@ class Form extends React.Component {
     onSubmit = e => {
         e.preventDefault()
         console.log (this.state)    
-    }
-
-    handleClick= () => {
-        import ('./Login')
-        .then(({Login}) => {
-
-        })
-        .catch(err => {
-
-        })
     }
 
     render() {
@@ -91,10 +81,14 @@ class Form extends React.Component {
                         <br />
 
                         <button className="Submit" onClick={() => this.onSubmit()}>Submit</button>
-                        <p>Not a member?<a onClick={this.handleClick} href="./Login">Create account</a>></p>
                     </form>
+
+                    <p className="Lg">Already a Member?<Link className="Lg1"to="/"> Login</Link></p>
                 </div>
             </div>
+           
+            
+            
 
             
         )
