@@ -28,7 +28,6 @@ export default class Login extends Component {
                 <p className="Welc">Welcome back!</p>
 
                 <form>
-
                 <label>Username</label>
                 <input
                 name="userName"
