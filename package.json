@@ -5,7 +5,7 @@
   "homepage": "https://vvheatly.github.io/mwhitley.sign-up.io/",
   "dependencies": {
     "gh": "^1.17.5",
-    "gh-pages": "^2.1.1",
+    "gh-pages": "^5.0.0",
     "pages": "0.0.16",
     "react": "^16.9.0",
     "react-bootstrap": "^1.0.0-beta.12",
